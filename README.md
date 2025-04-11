@@ -38,8 +38,11 @@ Check [Here](https://drive.google.com/file/d/10oJeOxJrW3FhkxL_Ee6C0ftTv99GOFsg/v
 - MY SQL - Data analysis to group the customers by their names and unique id so as to ascertain customer contribution to the revenue
 
 `SELECT Customer_Name, CustID, SUM(ProductPrice) AS Total_purchase
+
  FROM project_1.workbook
+ 
  GROUP BY CustID, Customer_Name
+ 
  ORDER BY Total_Purchase DESC;`
 
 - POWERBI - Visualization of insights
