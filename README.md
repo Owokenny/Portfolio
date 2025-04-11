@@ -1,5 +1,17 @@
 # PODHA MARKETING CAMPAIGN PROFITABILITY (2020-2022)
 
+## Table of content
+- [Project Background](#Project-Background)
+- [Project Goals](#Project-Goals)
+- [Data Structure](#Data-Structure)
+- [Executive Summary](#Executive-Summary)
+- [Insights deep dive](#Insights-deep-dive)
+  - [Revenue by acquisition source](#Revenue-by-acquisition-source)
+  - [Product Performance](#Product-Performance)
+  - [Customer Performance](#Customer-Performance)
+- [Recommendation](#Recommendation)
+- [Data Limitation and caveat](#Data-Limitation-and-caveat)
+- 
 ## Project Background
 
 PODHA is an agro-company that specialize in services such as sales of Plants, Pots and Plant seeds and care. This analysis examines their sales data for sales years 2020-2022 and provides recommendation for the for the best marketing campaign among the existing marketing strategy: Google ads, Meta ads and You tube campaign. The company is seeking to cut down on marketing cost by sticking to only one campaign strategy and they want to make an informed decision on that.
@@ -23,6 +35,8 @@ Plant sales generate the highest revenue (24M) with Plants care & seed and POTS 
 Key Performance indication showed an accrued revenue of 24M with an equivalent profit of 10M
 
 The entire interractive dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/b4f0bcf8-34bc-40d4-92de-5508f30d4629/5d94fe3b8df6197e16b6?ctid=b12da6a8-b87a-4a20-bde6-27e439635339&experience=power-bi)
+
+
 
 ## Insights deep dive
 
