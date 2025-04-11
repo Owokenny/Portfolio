@@ -38,11 +38,8 @@ Check [Here](https://drive.google.com/file/d/10oJeOxJrW3FhkxL_Ee6C0ftTv99GOFsg/v
 - MY SQL - Data analysis to group the customers by their names and unique id so as to ascertain customer contribution to the revenue
 
 `SELECT Customer_Name, CustID, SUM(ProductPrice) AS Total_purchase
-
  FROM project_1.workbook
- 
  GROUP BY CustID, Customer_Name
- 
  ORDER BY Total_Purchase DESC;`
 
 - POWERBI - Visualization of insights
@@ -65,6 +62,7 @@ The entire interractive dashboard can be downloaded [here](https://app.powerbi.c
 - Over the three sales year, most revenue came from Google ads purchase with the highest in 2021 (7.1M).
 - Trailing behind is the revenue generated from meta ads and Yt campaign with no significant difference between the two
 
+![Revenue by acquisition source](https://github.com/user-attachments/assets/09e34a83-7161-41ea-acdd-31f95691e562)
 
 
 ### Product Performance 
